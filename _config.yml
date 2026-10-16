@@ -2,8 +2,8 @@ title: My Website
 description: Jakins Portfolio
 theme: just-the-docs
 
-url: https://github.com/JakinBacon/portfolio/deployments/github-pages
-baseurl: /my-docs
+url: https://Jakinbacon.github.io
+baseurl: Portfolio
 
 color_scheme: dark
 search_enabled: true
